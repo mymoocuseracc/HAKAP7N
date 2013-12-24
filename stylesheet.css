@@ -1,0 +1,57 @@
+/* Stylesheet fuer Mooc WebEngineering I, Kapitel 7 */
+/*06.12.2013, be */
+body {
+	font-size: 15px;
+	font-family: Verdana,sans-serif;
+}
+
+span {
+        font-size: 23px;
+}
+		
+.picture {
+	 border-style: hidden;	    
+}
+
+.button1 {
+          border-radius: 5px; 
+		  background-color: #CFCFF4; 
+		  width: 115px; 
+		  height: 30px; 
+		  background-color: #CFCFF4; 	  
+}
+
+.button2 {
+         border-radius: 5px; 
+         background-color: #CFCFF4; 
+		 width: 115px; 
+		 height: 30px; 
+}
+
+.note {
+      font-size: 11px;
+	  }
+	  
+input[type=submit] {
+	border-radius: 5px;
+	font-size: 18px;
+	font-family: Verdana,sans-serif;
+	background-color: #CFCFF4; 
+	min-width: 115px; 
+	height: 30px; 
+}
+
+fieldset {
+	background-color: #EFEFEF;
+	width: 350px;
+}
+
+input:hover {
+	background-color: #CFAFCF;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
